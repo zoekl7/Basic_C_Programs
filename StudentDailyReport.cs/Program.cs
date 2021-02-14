@@ -27,6 +27,8 @@ namespace StudentDailyReport.cs
             bool needHelp = Convert.ToBoolean(askHelp);
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics");
             string todayExperience = Console.ReadLine();
+            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific");
+            string feedback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
             string hours = Console.ReadLine();
             int totalHours = Convert.ToInt32(hours);
