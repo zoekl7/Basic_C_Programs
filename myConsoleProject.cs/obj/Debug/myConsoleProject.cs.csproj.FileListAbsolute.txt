@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\bin\Debug\myConsoleProject.cs.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\myConsoleProject.cs\obj\Debug\myConsoleProject.cs.pdb

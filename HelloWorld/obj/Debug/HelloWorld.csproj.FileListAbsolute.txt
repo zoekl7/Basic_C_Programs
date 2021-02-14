@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\HelloWorld\obj\Debug\HelloWorld.pdb
