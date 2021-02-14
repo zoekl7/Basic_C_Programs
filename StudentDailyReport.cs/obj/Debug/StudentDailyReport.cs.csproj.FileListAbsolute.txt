@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\bin\Debug\StudentDailyReport.cs.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\bin\Debug\StudentDailyReport.cs.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\bin\Debug\StudentDailyReport.cs.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\obj\Debug\StudentDailyReport.cs.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\obj\Debug\StudentDailyReport.cs.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\obj\Debug\StudentDailyReport.cs.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StudentDailyReport.cs\obj\Debug\StudentDailyReport.cs.pdb
