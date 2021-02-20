@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\bin\Debug\MathOperationsAssign.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\bin\Debug\MathOperationsAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\bin\Debug\MathOperationsAssign.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\obj\Debug\MathOperationsAssign.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\obj\Debug\MathOperationsAssign.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\obj\Debug\MathOperationsAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MathOperationsAssign\obj\Debug\MathOperationsAssign.pdb
