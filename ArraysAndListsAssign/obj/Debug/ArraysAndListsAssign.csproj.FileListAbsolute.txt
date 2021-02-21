@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\bin\Debug\ArraysAndListsAssign.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\bin\Debug\ArraysAndListsAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\bin\Debug\ArraysAndListsAssign.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\obj\Debug\ArraysAndListsAssign.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\obj\Debug\ArraysAndListsAssign.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\obj\Debug\ArraysAndListsAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndListsAssign\obj\Debug\ArraysAndListsAssign.pdb

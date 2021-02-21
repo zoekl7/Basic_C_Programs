@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\obj\Debug\ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
