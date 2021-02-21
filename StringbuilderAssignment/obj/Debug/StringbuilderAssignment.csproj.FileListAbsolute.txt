@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\bin\Debug\StringbuilderAssignment.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\bin\Debug\StringbuilderAssignment.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\bin\Debug\StringbuilderAssignment.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\obj\Debug\StringbuilderAssignment.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\obj\Debug\StringbuilderAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\obj\Debug\StringbuilderAssignment.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\StringbuilderAssignment\obj\Debug\StringbuilderAssignment.pdb

@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\bin\Debug\Strings.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\bin\Debug\Strings.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\bin\Debug\Strings.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\obj\Debug\Strings.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Strings\obj\Debug\Strings.pdb
