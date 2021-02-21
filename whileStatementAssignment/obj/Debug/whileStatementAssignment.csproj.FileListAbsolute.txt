@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\bin\Debug\whileStatementAssignment.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\bin\Debug\whileStatementAssignment.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\bin\Debug\whileStatementAssignment.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\obj\Debug\whileStatementAssignment.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\obj\Debug\whileStatementAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\obj\Debug\whileStatementAssignment.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\whileStatementAssignment\obj\Debug\whileStatementAssignment.pdb
