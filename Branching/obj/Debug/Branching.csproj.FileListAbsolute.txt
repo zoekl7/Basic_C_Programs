@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\bin\Debug\Branching.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\bin\Debug\Branching.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\bin\Debug\Branching.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\obj\Debug\Branching.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\Branching\obj\Debug\Branching.pdb

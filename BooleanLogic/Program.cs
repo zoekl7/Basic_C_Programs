@@ -30,8 +30,8 @@ namespace BooleanLogic
             //Console.WriteLine(true ^ false);
             //Console.WriteLine(false ^ false);
 
-            Console.WriteLine(true && true && true || false);
-            Console.WriteLine(true && true && true && false);
+            //Console.WriteLine(true && true && true || false);
+            //Console.WriteLine(true && true && true && false);
 
             Console.ReadLine();
         }

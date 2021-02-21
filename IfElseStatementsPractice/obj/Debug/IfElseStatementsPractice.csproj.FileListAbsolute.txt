@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\obj\Debug\IfElseStatementsPractice.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\obj\Debug\IfElseStatementsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\bin\Debug\IfElseStatementsPractice.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\bin\Debug\IfElseStatementsPractice.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\bin\Debug\IfElseStatementsPractice.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\obj\Debug\IfElseStatementsPractice.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IfElseStatementsPractice\obj\Debug\IfElseStatementsPractice.pdb

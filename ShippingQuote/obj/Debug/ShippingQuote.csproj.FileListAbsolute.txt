@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\obj\Debug\ShippingQuote.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ShippingQuote\obj\Debug\ShippingQuote.pdb
