@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\bin\Debug\ExceptionHandlingAssign.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\bin\Debug\ExceptionHandlingAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\bin\Debug\ExceptionHandlingAssign.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\obj\Debug\ExceptionHandlingAssign.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\obj\Debug\ExceptionHandlingAssign.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\obj\Debug\ExceptionHandlingAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\ExceptionHandlingAssign\obj\Debug\ExceptionHandlingAssign.pdb
