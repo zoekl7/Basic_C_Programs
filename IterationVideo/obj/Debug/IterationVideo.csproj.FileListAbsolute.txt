@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\bin\Debug\IterationVideo.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\bin\Debug\IterationVideo.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\bin\Debug\IterationVideo.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\obj\Debug\IterationVideo.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\obj\Debug\IterationVideo.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\obj\Debug\IterationVideo.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\IterationVideo\obj\Debug\IterationVideo.pdb
