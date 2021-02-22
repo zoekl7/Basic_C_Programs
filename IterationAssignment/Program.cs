@@ -6,7 +6,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        //part one
         string[] nouns = { " movie", " flower", " eggs", " ham", " sky", " phone", " hair", " fruit", " carpet", " ink" };
 
         Console.WriteLine("Enter your favorite color:");
