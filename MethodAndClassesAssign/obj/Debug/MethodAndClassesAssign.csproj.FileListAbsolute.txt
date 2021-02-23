@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\obj\Debug\MethodAndClassesAssign.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\obj\Debug\MethodAndClassesAssign.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\bin\Debug\MethodAndClassesAssign.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\bin\Debug\MethodAndClassesAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\bin\Debug\MethodAndClassesAssign.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\obj\Debug\MethodAndClassesAssign.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesAssign\obj\Debug\MethodAndClassesAssign.pdb
