@@ -13,6 +13,12 @@ namespace MethodAndClassesOverload
             int numberOne = mathOperations.mathOp(50);
             Console.WriteLine(numberOne);
 
+            double numberTwo = mathOperations.mathOp(17.5);
+            Console.WriteLine(numberTwo);
+
+            int numberThree = mathOperations.mathOp("9");
+            Console.WriteLine(numberThree);
+
             Console.ReadLine();
 
             Console.WriteLine("Please enter an integer: ");

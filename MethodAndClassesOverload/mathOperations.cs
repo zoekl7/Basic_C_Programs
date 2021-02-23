@@ -9,10 +9,21 @@ namespace MethodAndClassesOverload
     public class mathOperations
     {
         private static int num;
+
         public static int mathOp(int number)
+        {
+            return number * 2;
+        }
+
+        public static double mathOp(double number)
         {
             return number / 2;
         }
 
+        public static int mathOp(string number)
+        {
+            num = Convert.ToInt32(number);
+            return num + 25000;
+        }
     }
 }
