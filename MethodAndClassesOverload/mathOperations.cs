@@ -15,9 +15,11 @@ namespace MethodAndClassesOverload
             return number * 2;
         }
 
-        public static double mathOp(double number)
+        public static int mathOp(decimal number)
         {
-            return number / 2;
+            int result = Convert.ToInt32(number);
+            result = result / 2;
+            return result;
         }
 
         public static int mathOp(string number)

@@ -13,7 +13,7 @@ namespace MethodAndClassesOverload
             int numberOne = mathOperations.mathOp(50);
             Console.WriteLine(numberOne);
 
-            double numberTwo = mathOperations.mathOp(17.5);
+            int numberTwo = mathOperations.mathOp(17.5m);
             Console.WriteLine(numberTwo);
 
             int numberThree = mathOperations.mathOp("9");
