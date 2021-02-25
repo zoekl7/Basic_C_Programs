@@ -1,0 +1,7 @@
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\obj\Debug\MethodAndClassesSuperClass.csprojAssemblyReference.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\obj\Debug\MethodAndClassesSuperClass.csproj.CoreCompileInputs.cache
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\bin\Debug\MethodAndClassesSuperClass.exe.config
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\bin\Debug\MethodAndClassesSuperClass.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\bin\Debug\MethodAndClassesSuperClass.pdb
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\obj\Debug\MethodAndClassesSuperClass.exe
+C:\Users\Jordan Hamelin\Desktop\Basic_C_Programs\MethodAndClassesSuperClass\obj\Debug\MethodAndClassesSuperClass.pdb
